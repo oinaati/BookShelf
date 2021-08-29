@@ -1,0 +1,27 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-11.0.9\bin\javadoc.exe" @options @packages"
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\allclasses-index.html = 1613316033476
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\allclasses.html = 1613316033555
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\allpackages-index.html = 1613316033501
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\constant-values.html = 1613316032765
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\deprecated-list.html = 1613316033529
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\element-list = 1613316032459
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\help-doc.html = 1613316033605
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\index-all.html = 1613316033447
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\index.html = 1613316033565
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\member-search-index.js = 1613316033435
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\member-search-index.zip = 1613316033438
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\options = 1613316029824
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\overview-summary.html = 1613316033591
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\overview-tree.html = 1613316033367
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\package-search-index.js = 1613316033410
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\package-search-index.zip = 1613316033415
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\packages = 1613316029825
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\script.js = 1613316033638
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\search.js = 1613316033654
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\serialized-form.html = 1613316032809
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\stylesheet.css = 1613316033631
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\type-search-index.js = 1613316033424
+D:\natim\Desktop\Estudos\Desenvolvimento\BookShelf\BookShelf\target\apidocs\type-search-index.zip = 1613316033426
